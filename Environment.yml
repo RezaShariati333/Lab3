@@ -1,0 +1,12 @@
+name: nim-minimax
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - ipython
+  - ipywidgets
+  - jupyter
